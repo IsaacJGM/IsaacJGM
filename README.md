@@ -57,6 +57,15 @@
   </a>
 </p>
 
+### 👉 Backend Development
+<p align="left"> 
+  &emsp;
+  <a href="https://nodejs.org/en" target="_blank"> 
+    <img alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white"/>
+  </a>
+</p>
+
+
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
@@ -71,6 +80,8 @@
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
   &emsp;
     <a href="https://www.mongodb.com/es"><img alt="Mongo DB" src ="https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.netlify.com"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-00000F?&logo=netlify&logoColor=white"></a>
 
 
 
